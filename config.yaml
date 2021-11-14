@@ -64,10 +64,10 @@ monitors:
     expectStatus: 200
     linkable: true
     
-  - id: blog
-    name: blog
-    description: 'Personal Blog.'
-    url: 'https://blog.madebug.net/'
-    method: GET
-    expectStatus: 200
-    linkable: true
+#   - id: blog
+#     name: blog
+#     description: 'Personal Blog.'
+#     url: 'https://blog.madebug.net/'
+#     method: GET
+#     expectStatus: 200
+#     linkable: true
