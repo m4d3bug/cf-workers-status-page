@@ -40,14 +40,6 @@ monitors:
     expectStatus: 200
     linkable: true
     
-  - id: 2giae
-    name: 2giae node
-    description: '2giae proxy node.'
-    url: 'https://2giae.m4d3bug.com/'
-    method: GET
-    expectStatus: 200
-    linkable: true
-    
   - id: 3giae
     name: 3giae node
     description: '3giae proxy node.'
@@ -64,10 +56,18 @@ monitors:
     expectStatus: 200
     linkable: true
     
-#   - id: blog
-#     name: blog
-#     description: 'Personal Blog.'
-#     url: 'https://blog.madebug.net/'
-#     method: GET
-#     expectStatus: 200
-#     linkable: true
+  - id: blog
+    name: blog
+    description: 'Personal Blog.'
+    url: 'https://blog.madebug.net/'
+    method: GET
+    expectStatus: 200
+    linkable: true
+    
+  - id: Netflix
+    name: Netflix node
+    description: 'Netflix node.'
+    url: '45.45.178.176'
+    method: GET
+    expectStatus: 200
+    linkable: false
