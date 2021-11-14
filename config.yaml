@@ -33,7 +33,7 @@ monitors:
     linkable: true
     
   - id: 1giae
-    name: 0giae node
+    name: 1giae node
     description: '1giae proxy node.'
     url: 'https://1giae.m4d3bug.com/'
     method: GET
