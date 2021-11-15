@@ -63,11 +63,3 @@ monitors:
     method: GET
     expectStatus: 200
     linkable: true
-    
-  - id: Netflix
-    name: Netflix node
-    description: 'Netflix node.'
-    url: '45.45.178.176'
-    method: GET
-    expectStatus: 200
-    linkable: false
